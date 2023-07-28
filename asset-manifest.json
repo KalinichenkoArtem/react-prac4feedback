@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prac4feedback/static/css/main.7acaea2f.css",
+    "main.js": "/react-prac4feedback/static/js/main.dfbccc24.js",
+    "index.html": "/react-prac4feedback/index.html",
+    "main.7acaea2f.css.map": "/react-prac4feedback/static/css/main.7acaea2f.css.map",
+    "main.dfbccc24.js.map": "/react-prac4feedback/static/js/main.dfbccc24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.dfbccc24.js"
+  ]
+}
